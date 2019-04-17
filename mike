@@ -1,0 +1,6 @@
+SELECT *
+FROM ChatTranscriptMessage
+ORDER BY id DESC
+
+
+select * from user where emailaddress = 'icims+duplcate@brazen.com'
